@@ -60,7 +60,7 @@ Zygote = "e88e6eb3-aa80-5325-afca-941959d7151f"
 [compat]
 AdvancedHMC = "0.6, 0.7"
 BenchmarkTools = "1"
-CSV = "0.10"
+CSV = "0.10, 1"
 CUDA = "5"
 ComponentArrays = "0.15"
 DataDrivenDiffEq = "1.4"
